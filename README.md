@@ -2,7 +2,7 @@
 
 A powerful and user-friendly web application that allows you to upload any PDF document and get answers to your questions based *only* on its content. This project leverages Retrieval Augmented Generation (RAG) using local Large Language Models (LLMs) powered by Ollama and built with LangChain and Streamlit.
 ## Demo: 
-![](/Users/hariharasudhan/RAG-with-StreamLit-UI/demo.png)
+![](demo.png)
 
 ## Features
 
